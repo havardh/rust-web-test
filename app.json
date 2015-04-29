@@ -1,0 +1,9 @@
+{
+  "name": "Test Rust application",
+  "repository": "https://github.com/havardh/rust-web-test",
+  "success_url": "/",
+  "keywords": ["rust", "iron"],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/emk/heroku-buildpack-rust.git"
+  }
+}

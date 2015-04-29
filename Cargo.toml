@@ -1,0 +1,12 @@
+[package]
+name = "web-test"
+version = "0.0.1"
+authors = ["Håvard Wormdal Høiby <havardwhoiby@gmail.com>"]
+
+[dependencies]
+iron = "*"
+serde = "*"
+serde_macros = "*"
+router = "*"
+staticfile = "*"
+mount = "*"
