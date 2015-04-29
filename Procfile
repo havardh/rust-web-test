@@ -1,1 +1,1 @@
-web: ./target/debug/web-test
+web: ./target/release/web-test
